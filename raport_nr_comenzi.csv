@@ -1,0 +1,15 @@
+Angajatul cu numarul de comenzi ce mai mare
+Nume,numarul de comenzi,salariu
+Marin Denisa,4,3816
+
+TOP valoare comenzi
+Nume,bonus,salariu
+Marin Denisa,18.15,3816
+Popa Stefan,11.575,3710
+Ion Darius,10.825,4010
+
+TOP salariu
+Nume,salariu
+Popescu Marcel,5125
+Ion Darius,4010
+Marin Denisa,3816
