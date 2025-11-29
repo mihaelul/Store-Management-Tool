@@ -74,7 +74,3 @@ Includes scenarios for:
 
 ---
 
-If you want, I can also create:
-✨ A stylish version with emojis & badges
-📄 A Romanian version
-🧱 A README with screenshots, diagrams, or examples
